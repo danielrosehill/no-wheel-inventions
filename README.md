@@ -1,6 +1,6 @@
 ![No Wheel Inventions](banners/1.png)
 
-# No Wheel Inventions
+# No Wheel Inventions, Please!
 
 A collection of slash commands and agents intended to mitigate the tendency of AI coding tools to "reinvent the wheel"—creating substandard versions of code or features that already exist and could have been integrated into the project.
 
