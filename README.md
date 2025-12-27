@@ -18,11 +18,13 @@ This installs:
 - Slash commands to `~/.claude/commands/DevUtils/`
 - Agents to `~/.claude/agents/`
 
-## Usage Philosophy: Prevention vs. Remediation
+## How To Use
 
 This toolkit supports two complementary approaches:
 
-### Prevention (Recommended)
+### Prevention 
+
+
 
 **Prevention is always better than cure.** The most effective implementation is to integrate these principles at the *start* of a project.
 
