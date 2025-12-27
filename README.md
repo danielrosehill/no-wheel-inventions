@@ -1,16 +1,16 @@
-![alt text](banners/1.png)
+![No Wheel Inventions](banners/1.png)
 
-A collection of slash commands and a sub-agent intended to be integrated into web development crews.
+# No Wheel Inventions
 
-The purpose is specifically to create utilities to mitigate against the tendency of AI systems in coding development systems to reinvent the wheel. The motto and purpose of these utilities is to "build on the shoulders of giants," encouraging the AI development tool to think proactively and creatively about existing development frameworks that can be integrated into the project, especially suitable for open-source tools.
+A collection of slash commands and agents intended to mitigate the tendency of AI coding tools to "reinvent the wheel"—creating substandard versions of code or features that already exist and could have been integrated into the project.
 
-## Contents
+These utilities encourage AI development tools to *build on the shoulders of giants*, leveraging the best of open source to avoid wasting time on superfluous and ineffective development.
 
-### Slash Commands
+## Slash Commands
 
 - **`starting-instruction`** - Sets the development philosophy at project start, instructing the AI to prefer existing templates and components over custom implementations
 - **`retrospective`** - Reviews an existing codebase to identify where custom code could be replaced with more robust existing solutions
 
-### Agents
+## Agents
 
 - **`stack-integration`** - A sub-agent that works alongside a planning agent to proactively identify integration opportunities with existing solutions
