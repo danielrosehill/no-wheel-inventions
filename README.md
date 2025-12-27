@@ -67,8 +67,6 @@ Critical evaluation often reveals:
 - Custom code duplicating functionality available in dependencies
 - Opportunities to consolidate multiple utilities into comprehensive solutions
 
-## Why This Matters: The Upstream Advantage
-
 Using existing templates and components isn't just about saving development time—it creates a more efficient, maintainable codebase.
 
 **Example: Icon Implementation**
@@ -123,10 +121,3 @@ Building on maintained foundations means your project improves without additiona
 └── banners/
     └── 1.png
 ```
-
-## Contributing
-
-Found a pattern of "wheel reinvention" that these tools don't address? Contributions are welcome. Consider adding:
-- New slash commands for specific development scenarios
-- Additional agents for specialized integration checking
-- Improvements to existing prompts based on real-world usage
